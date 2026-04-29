@@ -2,7 +2,7 @@ public class Main {
     
     public static String getStatus() {
         // STUDENT: Change "NOT READY" to "SETUP COMPLETE"
-        return "NOT READY";
+        return "SETUP COMPLETE";
     }
 
     // The Auto-Grader will run this main method to check your answer.
